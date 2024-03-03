@@ -8,4 +8,4 @@ def load_words():
 if __name__ == '__main__':
     english_words = load_words()
     # demo print
-    print('fate' in english_words)
+    print('a' in english_words)
